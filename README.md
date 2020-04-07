@@ -50,9 +50,13 @@ Oracle改变了老旧的网页，焕然一新的界面更加方便查找，但�
 >export CLASSPATH=.:$JAVA_HOME/lib$:JRE_HOME/lib:$CLASSPATH
 
 >export PATH=$JAVA_HOME/bin:$JRE_HOME/bin/$JAVA_HOME:$PATH
+
 保存退出，执行
+
 >source /etc/profile
+
 查看安装是否成功
+
 >java -verson
 
 # 安装tomcat
